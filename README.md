@@ -4,3 +4,5 @@ First save the image of person in same folder and change the file name in the co
 Two code are here . 
 -live face-recogntion
 -capture face - recognition
+Enjoy!!!
+...
